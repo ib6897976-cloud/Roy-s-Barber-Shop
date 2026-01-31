@@ -1,0 +1,7 @@
+{
+  "name": "Roy's Barber Shop - Chicago's Finest",
+  "description": "A high-end, modern one-page website for Roy's Barber Shop, a legendary Chicago institution combining old-school mastery with modern luxury.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
